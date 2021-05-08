@@ -1,0 +1,5 @@
+npm init
+npm init -y
+npm i loadsh
+npm config set strict-ssl false
+npm i bootstrap
